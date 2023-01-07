@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Dominio\\Dominio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Ever Vásquez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ever Vásquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\Persistencia.csproj"
+              },
+              "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj": {
+                "projectPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\Persistencia.csproj",
+        "projectName": "Persistencia",
+        "projectPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Ever Vásquez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ever Vásquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj": {
+                "projectPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.117, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj",
+        "projectName": "Soporte",
+        "projectPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj",
+        "packagesPath": "C:\\Users\\Ever Vásquez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ever Vásquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

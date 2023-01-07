@@ -1,0 +1,60 @@
+E:\Prácticas\C#\Inventario\Dominio\bin\Debug\net6.0-windows\Dominio.deps.json
+E:\Prácticas\C#\Inventario\Dominio\bin\Debug\net6.0-windows\Dominio.runtimeconfig.json
+E:\Prácticas\C#\Inventario\Dominio\bin\Debug\net6.0-windows\Dominio.dll
+E:\Prácticas\C#\Inventario\Dominio\bin\Debug\net6.0-windows\Dominio.pdb
+E:\Prácticas\C#\Inventario\Dominio\bin\Debug\net6.0-windows\Persistencia.dll
+E:\Prácticas\C#\Inventario\Dominio\bin\Debug\net6.0-windows\Persistencia.pdb
+E:\Prácticas\C#\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.csproj.AssemblyReference.cache
+E:\Prácticas\C#\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prácticas\C#\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.AssemblyInfoInputs.cache
+E:\Prácticas\C#\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.AssemblyInfo.cs
+E:\Prácticas\C#\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.csproj.CoreCompileInputs.cache
+E:\Prácticas\C#\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.csproj.CopyComplete
+E:\Prácticas\C#\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.dll
+E:\Prácticas\C#\Inventario\Dominio\obj\Debug\net6.0-windows\refint\Dominio.dll
+E:\Prácticas\C#\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.pdb
+E:\Prácticas\C#\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.genruntimeconfig.cache
+E:\Prácticas\C#\Inventario\Dominio\obj\Debug\net6.0-windows\ref\Dominio.dll
+E:\Prácticas\C#\Inventario\Dominio\bin\Debug\net6.0-windows\database.db
+E:\Prácticas\C#\Inventario\Dominio\bin\Debug\net6.0-windows\Soporte.dll
+E:\Prácticas\C#\Inventario\Dominio\bin\Debug\net6.0-windows\Soporte.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\bin\Debug\net6.0-windows\database.db
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\bin\Debug\net6.0-windows\Dominio.deps.json
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\bin\Debug\net6.0-windows\Dominio.runtimeconfig.json
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\bin\Debug\net6.0-windows\Dominio.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\bin\Debug\net6.0-windows\Dominio.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\bin\Debug\net6.0-windows\Persistencia.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\bin\Debug\net6.0-windows\Soporte.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\bin\Debug\net6.0-windows\Persistencia.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\bin\Debug\net6.0-windows\Soporte.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.csproj.AssemblyReference.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.AssemblyInfoInputs.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.AssemblyInfo.cs
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.csproj.CopyComplete
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\obj\Debug\net6.0-windows\refint\Dominio.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.genruntimeconfig.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Dominio\obj\Debug\net6.0-windows\ref\Dominio.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\bin\Debug\net6.0-windows\database.db
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\bin\Debug\net6.0-windows\Dominio.deps.json
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\bin\Debug\net6.0-windows\Dominio.runtimeconfig.json
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\bin\Debug\net6.0-windows\Dominio.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\bin\Debug\net6.0-windows\Dominio.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\bin\Debug\net6.0-windows\Persistencia.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\bin\Debug\net6.0-windows\Soporte.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\bin\Debug\net6.0-windows\Persistencia.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\bin\Debug\net6.0-windows\Soporte.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.csproj.AssemblyReference.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.AssemblyInfoInputs.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.AssemblyInfo.cs
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.csproj.CopyComplete
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\obj\Debug\net6.0-windows\refint\Dominio.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\obj\Debug\net6.0-windows\Dominio.genruntimeconfig.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Dominio\obj\Debug\net6.0-windows\ref\Dominio.dll

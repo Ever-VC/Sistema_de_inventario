@@ -1,0 +1,36 @@
+E:\Prácticas\C#\Inventario\Soporte\bin\Debug\net6.0-windows\Soporte.deps.json
+E:\Prácticas\C#\Inventario\Soporte\bin\Debug\net6.0-windows\Soporte.dll
+E:\Prácticas\C#\Inventario\Soporte\bin\Debug\net6.0-windows\Soporte.pdb
+E:\Prácticas\C#\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.csproj.AssemblyReference.cache
+E:\Prácticas\C#\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prácticas\C#\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.AssemblyInfoInputs.cache
+E:\Prácticas\C#\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.AssemblyInfo.cs
+E:\Prácticas\C#\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.csproj.CoreCompileInputs.cache
+E:\Prácticas\C#\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.dll
+E:\Prácticas\C#\Inventario\Soporte\obj\Debug\net6.0-windows\refint\Soporte.dll
+E:\Prácticas\C#\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.pdb
+E:\Prácticas\C#\Inventario\Soporte\obj\Debug\net6.0-windows\ref\Soporte.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Soporte\bin\Debug\net6.0-windows\Soporte.deps.json
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Soporte\bin\Debug\net6.0-windows\Soporte.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Soporte\bin\Debug\net6.0-windows\Soporte.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.csproj.AssemblyReference.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.AssemblyInfoInputs.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.AssemblyInfo.cs
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.csproj.CoreCompileInputs.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Soporte\obj\Debug\net6.0-windows\refint\Soporte.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Soporte\obj\Debug\net6.0-windows\ref\Soporte.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Soporte\bin\Debug\net6.0-windows\Soporte.deps.json
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Soporte\bin\Debug\net6.0-windows\Soporte.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Soporte\bin\Debug\net6.0-windows\Soporte.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.csproj.AssemblyReference.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.AssemblyInfoInputs.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.AssemblyInfo.cs
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.csproj.CoreCompileInputs.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Soporte\obj\Debug\net6.0-windows\refint\Soporte.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Soporte\obj\Debug\net6.0-windows\Soporte.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Soporte\obj\Debug\net6.0-windows\ref\Soporte.dll

@@ -1,0 +1,54 @@
+E:\Prácticas\C#\Inventario\Persistencia\bin\Debug\net6.0-windows\Persistencia.deps.json
+E:\Prácticas\C#\Inventario\Persistencia\bin\Debug\net6.0-windows\Persistencia.runtimeconfig.json
+E:\Prácticas\C#\Inventario\Persistencia\bin\Debug\net6.0-windows\Persistencia.dll
+E:\Prácticas\C#\Inventario\Persistencia\bin\Debug\net6.0-windows\Persistencia.pdb
+E:\Prácticas\C#\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.csproj.AssemblyReference.cache
+E:\Prácticas\C#\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prácticas\C#\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.AssemblyInfoInputs.cache
+E:\Prácticas\C#\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.AssemblyInfo.cs
+E:\Prácticas\C#\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.csproj.CoreCompileInputs.cache
+E:\Prácticas\C#\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.dll
+E:\Prácticas\C#\Inventario\Persistencia\obj\Debug\net6.0-windows\refint\Persistencia.dll
+E:\Prácticas\C#\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.pdb
+E:\Prácticas\C#\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.genruntimeconfig.cache
+E:\Prácticas\C#\Inventario\Persistencia\obj\Debug\net6.0-windows\ref\Persistencia.dll
+E:\Prácticas\C#\Inventario\Persistencia\bin\Debug\net6.0-windows\database.db
+E:\Prácticas\C#\Inventario\Persistencia\bin\Debug\net6.0-windows\Soporte.dll
+E:\Prácticas\C#\Inventario\Persistencia\bin\Debug\net6.0-windows\Soporte.pdb
+E:\Prácticas\C#\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.csproj.CopyComplete
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\bin\Debug\net6.0-windows\database.db
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\bin\Debug\net6.0-windows\Persistencia.deps.json
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\bin\Debug\net6.0-windows\Persistencia.runtimeconfig.json
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\bin\Debug\net6.0-windows\Persistencia.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\bin\Debug\net6.0-windows\Persistencia.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\bin\Debug\net6.0-windows\Soporte.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\bin\Debug\net6.0-windows\Soporte.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.AssemblyInfo.cs
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.csproj.CopyComplete
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\obj\Debug\net6.0-windows\refint\Persistencia.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.genruntimeconfig.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Inventario\Persistencia\obj\Debug\net6.0-windows\ref\Persistencia.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\bin\Debug\net6.0-windows\database.db
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\bin\Debug\net6.0-windows\Persistencia.deps.json
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\bin\Debug\net6.0-windows\Persistencia.runtimeconfig.json
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\bin\Debug\net6.0-windows\Persistencia.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\bin\Debug\net6.0-windows\Persistencia.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\bin\Debug\net6.0-windows\Soporte.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\bin\Debug\net6.0-windows\Soporte.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.AssemblyInfo.cs
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.csproj.CopyComplete
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\obj\Debug\net6.0-windows\refint\Persistencia.dll
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.pdb
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\obj\Debug\net6.0-windows\Persistencia.genruntimeconfig.cache
+C:\Users\Ever Vásquez\Documents\Git_projects\Sistema de Inventario\Inventario\Persistencia\obj\Debug\net6.0-windows\ref\Persistencia.dll
