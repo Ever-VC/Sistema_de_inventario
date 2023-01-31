@@ -1241,11 +1241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\Ever Vásquez\\OneDrive\\Documentos\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\Persistencia.csproj",
+      "projectPath": "C:\\Users\\Ever Vásquez\\OneDrive\\Documentos\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\Persistencia.csproj",
       "packagesPath": "C:\\Users\\Ever Vásquez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\obj\\",
+      "outputPath": "C:\\Users\\Ever Vásquez\\OneDrive\\Documentos\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1266,8 +1266,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj": {
-              "projectPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj"
+            "C:\\Users\\Ever Vásquez\\OneDrive\\Documentos\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj": {
+              "projectPath": "C:\\Users\\Ever Vásquez\\OneDrive\\Documentos\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj"
             }
           }
         }

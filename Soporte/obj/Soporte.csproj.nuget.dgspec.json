@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj": {}
+    "C:\\Users\\Ever Vásquez\\OneDrive\\Documentos\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj": {
+    "C:\\Users\\Ever Vásquez\\OneDrive\\Documentos\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj",
+        "projectUniqueName": "C:\\Users\\Ever Vásquez\\OneDrive\\Documentos\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj",
         "projectName": "Soporte",
-        "projectPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj",
+        "projectPath": "C:\\Users\\Ever Vásquez\\OneDrive\\Documentos\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\Soporte.csproj",
         "packagesPath": "C:\\Users\\Ever Vásquez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\obj\\",
+        "outputPath": "C:\\Users\\Ever Vásquez\\OneDrive\\Documentos\\Git_projects\\Sistema de Inventario\\Inventario\\Soporte\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

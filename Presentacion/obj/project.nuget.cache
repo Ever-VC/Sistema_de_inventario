@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MQACdvP17cG/u+nH5pm0cNTVw9jevKASnIw8OfbabpUfTA2zDuDfYL7TCjOTzAfobESQFi+IrsWzcDccUKgheA==",
+  "dgSpecHash": "9X7F5NdQ3rUJYSDanKACSap2AY7ALiyKG0XnFmVY4epKMmzN/e4ROHbiSIH35DG6hQZxBp5yJm/YCfhUl/bNCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Presentacion\\Presentacion.csproj",
+  "projectFilePath": "C:\\Users\\Ever Vásquez\\OneDrive\\Documentos\\Git_projects\\Sistema de Inventario\\Inventario\\Presentacion\\Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ever Vásquez\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Ever Vásquez\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -19,5 +19,10 @@ namespace Dominio.Modelos
             return EmpleadoController.Instancia.Login(usuario, password);
             //La función "Login" retorna un valor booleano, ese mismo valor retornará ésta función "LoingEmpleado".
         }
+
+        public string recuperarPassword(string usuarioSolicitado)
+        {
+            return EmpleadoController.Instancia.recuperarPassword(usuarioSolicitado);
+        }
     }
 }

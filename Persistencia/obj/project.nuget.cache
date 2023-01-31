@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mlbVusZZ2bwKKq8xxgKaSUs2NadxPN9jxzAJ8zIJZGxwUAS9YX+l+eHhugNUUtc1x8Hn/fwV4Dmo8Q3ifurr4g==",
+  "dgSpecHash": "EKH9JkspbKx3EnbsQ6xdD8tyI5D7LWJO9dy6uy02rAMdj70ITBIY3msMuCUSogtrydcYWOnGinMGIr0FdEnXUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\Ever Vásquez\\OneDrive\\Documentos\\Git_projects\\Sistema de Inventario\\Inventario\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ever Vásquez\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Ever Vásquez\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

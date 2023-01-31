@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pjCHpdBgX8hGuWonQIbMLvZjr90IHIqrDaVUz7l0SkPaJ3P1KPyOL0d8tOJxcUU3tz3tgzKPLrQ4nssMNKMGAw==",
+  "dgSpecHash": "/TvhI9H/HtsEEt8V8NnwLrMp9bZDvoo4ViGaSD5bIdjyhzYP4OomTV/LFAw8gwlsyWc+9AeIshcfTEivTcFYPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ever Vásquez\\Documents\\Git_projects\\Sistema de Inventario\\Inventario\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Ever Vásquez\\OneDrive\\Documentos\\Git_projects\\Sistema de Inventario\\Inventario\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ever Vásquez\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Ever Vásquez\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

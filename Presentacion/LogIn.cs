@@ -14,6 +14,7 @@ using Dominio;
 using Dominio.Modelos;
 using Persistencia.Modelos;
 using Soporte.Cache;
+using Presentacion.Forms;
 
 namespace Presentacion
 {
@@ -111,11 +112,11 @@ namespace Presentacion
                         string Apellido = UserLoginCache.Apellidos.Remove(indice2);
                         if (UserLoginCache.Sexo == "Femenino")
                         {
-                            MessageBox.Show("¡BIENVENIDA " + Nombre.ToUpper() + " " + Apellido.ToUpper() + "! ES UN GUSTO VERTE POR ACÁ DE NUEVO :D", "Acceso confirmado.", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            MessageBox.Show($"¡BIENVENIDA {Nombre.ToUpper()}" + " " + $"{Apellido.ToUpper()}! ES UN GUSTO VERTE POR ACÁ DE NUEVO :D", "Acceso confirmado.", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         }
                         else
                         {
-                            MessageBox.Show("¡BIENVENIDO " + Nombre.ToUpper() + " " + Apellido.ToUpper() + "! ES UN GUSTO VERTE POR ACÁ DE NUEVO :D", "Acceso confirmado.", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            MessageBox.Show($"¡BIENVENIDO {Nombre.ToUpper()}" + " " + $"{Apellido.ToUpper()}! ES UN GUSTO VERTE POR ACÁ DE NUEVO :D", "Acceso confirmado.", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         }
 
                         MenuPrincipal admin = new();
@@ -156,6 +157,7 @@ namespace Presentacion
 
         private void Salir(Object sender, FormClosedEventArgs e)
         {
+            //Se ejecuta cuando el usuario haya cerrado sesión.
             txtPassword.Text = "CONTRASEÑA";
             txtPassword.UseSystemPasswordChar = false;
             txtUser.Text = "USUARIO";
@@ -163,5 +165,11 @@ namespace Presentacion
             this.Show();
         }
         #endregion
+
+        private void linkPassword_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            var recuperarPass = new RecuperarPassword();
+            recuperarPass.ShowDialog();
+        }
     }
 }

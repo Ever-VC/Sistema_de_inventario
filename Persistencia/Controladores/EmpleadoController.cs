@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Soporte.Cache;
 using System.Data;
+using Persistencia.ServiciosMail;
 
 namespace Persistencia.Controladores
 {
@@ -30,6 +31,7 @@ namespace Persistencia.Controladores
 
         public bool Login(string usuario, string pass)
         {
+            //El using permite ejecutar un bloque de codigo y al pasar, simplemente lo olvida (No es necesario cerrar instancias)
             using (SQLiteConnection connection = getConexion())
             {
                 //Consulta con parámetros
@@ -41,8 +43,8 @@ namespace Persistencia.Controladores
                 cmd.Parameters.Add(new SQLiteParameter("@Password", pass));
 
                 cmd.CommandType = System.Data.CommandType.Text;//Indica el tipo del comando
-                using SQLiteDataReader dataReader = cmd.ExecuteReader();//El using permite ejecutar un bloque de codigo y al pasar, simplemente lo olvida (No es necesario cerrar instancias)
-                if (dataReader.HasRows)
+                using SQLiteDataReader dataReader = cmd.ExecuteReader();
+                if (dataReader.HasRows)//Verifica si se han afectado (encontrado) registros.
                 {
                     while (dataReader.Read())//Se leen todos los registros
                     {
@@ -52,9 +54,6 @@ namespace Persistencia.Controladores
                         UserLoginCache.Cargo = dataReader.GetString(6);
                         UserLoginCache.Email = dataReader.GetString(7);
                         UserLoginCache.Sexo = dataReader.GetString(8);
-                        //nombre = dataReader["nombres"].ToString();
-                        //cargo = dataReader["cargo"].ToString();
-
                     }
                     return true;
                 }
@@ -62,18 +61,48 @@ namespace Persistencia.Controladores
                 {
                     return false;
                 }
-                /*
-                if (nombre != "" && cargo != "")
-                {
-                    empleado = new()
-                    {
-                        Cargo = cargo
-                    };
-                    MessageBox.Show("¡BIENVENIDO " + nombre.ToUpper() + "!, ES UN GUSTO VERTE POR ACÁ DE NUEVO :D", "Acceso confirmado.", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                }
-                */
             }                
         }
+
+        public string recuperarPassword(string usuarioSolicitado)
+        {
+            using (SQLiteConnection connection = getConexion())
+            {
+                using (var cmd = new SQLiteCommand())
+                {
+                    cmd.Connection = connection;
+                    cmd.CommandText = "SELECT * FROM Empleado WHERE usuario = @Usuario OR email = @Email";
+                    cmd.Parameters.AddWithValue("@Usuario", usuarioSolicitado);
+                    cmd.Parameters.AddWithValue("@Email", usuarioSolicitado);
+                    cmd.CommandType = CommandType.Text;
+                    SQLiteDataReader dataReader = cmd.ExecuteReader();
+                    if (dataReader.Read())//Si el lector tiene filas (Es decir, la consulta existe), obtenemos los datos del usuario.
+                    {
+                        string nombre = dataReader.GetString(2) + " " + dataReader.GetString(3);
+                        string email = dataReader.GetString(7);
+                        string password = dataReader.GetString(5);
+                        //En caso de ser varios emials a los que se desee enviar el correo solo se crea la lista
+                        //List<string> listaCorreos = new List<string>();
+                        //listaCorreos.Add(email);
+
+                        var correoSoporte = new SoporteEmail();
+                        correoSoporte.enviarCorreo(
+                                asunto: "SISTEMA: Solicitud de recuperación de contraseña.",
+                                cuerpo: "Hola " + nombre + "\nUsted ha solicitado recuperar su contraseña.\n" +
+                                "Su contraseña actual es: \"" + password + "\".\n" + 
+                                "Sin embargo, le pedimos que cambie su contraseña inmediatamente una vez que ingrese al sistema.",
+                                destinatarios: new List<string> { email }
+                            );
+                        return "Hola " + nombre + $", acabas de solicitar la recuperación de tu contraseña, por favor\n revisa tu correo: {email}.";
+                    }
+                    else
+                    {
+                        return "Lo sentimos, no tiene una cuenta con éste nombre de usuario o correo electrónico.";
+                    }
+                }
+            }
+        }
+
         /*
         public bool Insertar(Empleado empleado)
         {

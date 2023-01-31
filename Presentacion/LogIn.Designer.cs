@@ -169,6 +169,7 @@
             this.linkPassword.TabStop = true;
             this.linkPassword.Text = "¿Ha olvidado su contraseña?";
             this.msmAyuda.SetToolTip(this.linkPassword, "¿Ha olvidado su contraseña?");
+            this.linkPassword.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkPassword_LinkClicked);
             // 
             // btnCerrar
             // 

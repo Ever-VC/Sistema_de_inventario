@@ -4,6 +4,9 @@
     <Compile Update="Forms\MenuPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\RecuperarPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="LogIn.cs">
       <SubType>Form</SubType>
     </Compile>
